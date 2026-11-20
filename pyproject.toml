@@ -2,8 +2,11 @@ dependencies = [
     "chromadb>=1.5.9",
     "ipykernel>=7.4.0",
     "langchain>=1.4.9",
+    "langchain-core>=1.8.4,<2",
+    "langchain-groq==1.1.2",
     "matplotlib>=3.11.2",
     "open-clip-torch>=3.3.0",
     "pymupdf>=2.0",
+    "python-dotenv>=1.2.1",
     "torch>=2.14.1",
 ]
