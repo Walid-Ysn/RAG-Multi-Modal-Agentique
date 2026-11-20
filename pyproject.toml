@@ -1,6 +1,7 @@
 dependencies = [
     "chromadb>=1.5.9",
     "ipykernel>=7.4.0",
+    "langchain>=1.4.9",
     "matplotlib>=3.11.2",
     "open-clip-torch>=3.3.0",
     "pymupdf>=2.0",
